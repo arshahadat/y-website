@@ -1,0 +1,5 @@
+*{font-family: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, 'Apple Color Emoji','Segoe UI Emoji';}
+.hero{background: linear-gradient(135deg,#0ea5e9,#9333ea); min-height: 48vh;}
+.card-link{border:1px solid #eee; border-radius:1rem;}
+.card{border-radius:1rem; overflow:hidden;}
+.btn{border-radius:.75rem;}
